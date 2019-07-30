@@ -31,7 +31,7 @@ ExStudPE Visual Tools 是一个扩展StudPE、LordPE等软件的用于PE（32位
 
 当前版本：v1.6.4 Beta3
 
-运行环境：WinXP / Vista / Win7 / /Win8 / Win10
+运行环境：WinXP / Vista / Win7 / Win8 / Win10
 
 附加说明：
 
