@@ -1,6 +1,6 @@
 # ExStudPE Visual Tools 使用说明
 
-~ 强大的PE/PE64/NE/LE/COFF/LIB/ELF 格式分析、调试、编辑工具 ~
+## ~ 强大的PE/PE64/NE/LE/COFF/LIB/ELF 格式分析、调试、编辑工具 ~
 
 
 ExStudPE Visual Tools 是一个扩展StudPE、LordPE等软件的用于PE（32位）、PE+（64位）、NE、Elf（32位）、Coff、Lib格式
@@ -21,38 +21,21 @@ ExStudPE Visual Tools 是一个扩展StudPE、LordPE等软件的用于PE（32位
 
 本程序包括ANSI与Unicode两种版本，推荐使用稳定的Unicode版本。其运行界面大致如下所示：
 
- 
-
- 
-![ExStudPE Visual Tools](https://github.com/tankaishuai/ExStudPE_Visual_Tools/images/a1.png)
+![ExStudPE Visual Tools](https://github.com/tankaishuai/ExStudPE_Visual_Tools/blob/master/images/a1.png)
 
  
 
 
  
-
- 
-
-基本信息：
-
- 
+# 基本信息：
 
 当前版本：v1.6.4 Beta3
 
 运行环境：WinXP / Vista / Win7 / /Win8 / Win10
 
-
- 
-
- 
-
 附加说明：
 
- 
-
     (1)关于文件数据的查找方式：
-
- 
 
     直接十六进制方式查找：如：4D 12 37 (以一个空格隔开各个数据位)
 
@@ -63,8 +46,6 @@ ExStudPE Visual Tools 是一个扩展StudPE、LordPE等软件的用于PE（32位
  
 
 (2)本程序提供了对于目标文件的简单调试功能，如果虚拟机能够正常成功加载，记住以下快捷键是很有必要的：
-
- 
 
 F1：显示系统帮助信息 Ctrl+F1：显示本程序帮助文件
 
@@ -92,4 +73,6 @@ F12：显示调试帮助信息 Ctrl+F12：显示本程序帮助文件
 
     如果虚拟机加载失败，本程序仅仅只是简单尝试运行目标程序而已。
 
-![ExStudPE Visual Tools](https://github.com/tankaishuai/ExStudPE_Visual_Tools/images/a2.png)
+![ExStudPE Visual Tools](https://github.com/tankaishuai/ExStudPE_Visual_Tools/blob/master/images/a2.png)
+
+
